@@ -21,5 +21,5 @@ Academic Rewards
 ======
 1. China National Scholarship, both 2021 and 2022
 2. Baosteel Scholarship, 2023
-3. Signal Processing Scholarship, 2023
+3. Signal Processing Society Scholarship, 2023
 
