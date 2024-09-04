@@ -12,9 +12,11 @@ I'm a first year Ph.D. student at [HKU AIoT lab](https://aiot.hku.hk/), supervis
 Education
 ======
 **Sept. 2024 - now**:
+
 Ph.D. student in HKU Computer Science Department.
 
 **Sept. 2020 - Sept.2024**: 
+
 B.E. in School of Intelligent Systems Engineering, Sun Yat-sen University.
 
 Academic Rewards
