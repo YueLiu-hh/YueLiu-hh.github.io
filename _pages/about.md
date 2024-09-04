@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Ph.D. student at [HKU AIoT lab](https://aiot.hku.hk/), supervised by [Dr.Chenshu Wu](https://cswu.me/). My current research interest includes Wireless sensing and communication.
+I'm a first year Ph.D. student at [HKU AIoT lab](https://aiot.hku.hk/), supervised by [Dr.Chenshu Wu](https://cswu.me/). My current research interest includes wireless sensing and communication.
 
 Education
 ======
