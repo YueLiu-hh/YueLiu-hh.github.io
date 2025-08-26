@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue LIU"
+title: "LIU Yue"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ Ph.D. student in HKU Computer Science Department.
 **Sept. 2020 - Sept.2024**: 
 B.E. in School of Intelligent Systems Engineering, Sun Yat-sen University.
 
-Academic Rewards
+Academic Awards
 ======
 1. China National Scholarship, both 2021 and 2022
 2. Baosteel Scholarship, 2023
