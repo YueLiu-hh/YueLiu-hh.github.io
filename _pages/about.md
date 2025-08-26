@@ -14,7 +14,7 @@ Education
 **Sept. 2024 - now**:
 Ph.D. student in HKU Computer Science Department.
 
-**Sept. 2020 - Sept.2024**: 
+**Sept. 2020 - Jun.2024**: 
 B.E. in School of Intelligent Systems Engineering, Sun Yat-sen University.
 
 Academic Awards
